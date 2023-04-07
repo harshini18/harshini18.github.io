@@ -196,7 +196,7 @@ p {
 .info-summary {
   display: flex;
   height: 20rem;
-  width: 40rem;
+  width: 30rem;
   margin: 24px;
   background-color: var(--white);
   border-radius: 20px;
